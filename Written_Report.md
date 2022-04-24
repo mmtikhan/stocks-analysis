@@ -18,3 +18,10 @@ The main challenge is that the code gets bigger and in the end some minor mistak
 ## Results
 After the refactoring the code runs much faster with the same output the original code produced.
 The old code runs for 0,7 seconds for both years and the new code does the same job for 0.1 sec for 2017 year and even faster for 2018 years 0,09 sec which shows us that the optimization increases the timing in 7 times which significantly saves time during analyzing the big missives of data. While refactoring is more time consuming and makes the code missive and more complicated it will save time in the future saving time on waiting while the code is executed.
+
+OLD CODE
+![](resources/Old1.PNG)
+
+NEW CODE
+![](resources/VBA_Challenge_2017.PNG)
+![](resources/VBA_Challenge_2018.PNG)
